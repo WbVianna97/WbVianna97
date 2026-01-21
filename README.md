@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou William Vianna</h1>
 <h3 align="center">Estou iniciando minha jornada na área de análise e desenvolvimento de dados, sempre em busca de evolução e aprimoramento contínuo dos meus conhecimentos.</h3>
 
-- 🔭 Atualmente estou trabalhando com a criação de um ChatBot integrado com IA **com linguagem Python**
+- 🔭 Atualmente estou trabalhando com a criação de um ChatBot integrado com IA ** em linguagem Python**
 
 - 🌱 Atualmente estou aperfeiçoando meus conhecimentos **Python, CSS, HTML e JavaScript**
 
