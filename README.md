@@ -1,15 +1,15 @@
-<h1 align="center">Olá 👋, eu sou William Vianna</h1>
-<h3 align="center">Estou iniciando minha jornada na área de análise e desenvolvimento de dados, sempre em busca de evolução e aprimoramento contínuo dos meus conhecimentos.</h3>
+<h1 align="center">Olá 👋, sou o William Vianna</h1>
+<h3 align="center">Estou iniciando minha jornada na área de ADS - Análise e Desenvolvimento de Dados, buscando sempre evoluir e aprimorar de forma contínua meus conhecimentos.</h3>
 
-- 🔭 Atualmente estou trabalhando com a criação de um ChatBot integrado com IA **em linguagem Python**
+- 🔭 Atualmente estou trabalhando com a criação de um ChatBot, integrado com IA **em linguagem Python**
 
-- 🌱 Atualmente estou aperfeiçoando meus conhecimentos **Python, CSS, HTML e JavaScript**
+- 🌱 Estou aperfeiçoando meus conhecimentos em: **Python, CSS, HTML e JavaScript**
 
-- 💬 Me Pergunte sobre **Python**
+- 💬 Pergunte-me sobre **Python**
 
-- 📫 Você me acha através do e-mail **wbvianna97@gmail.com**
+- 📫 Você me encontra através do e-mail **wbvianna97@gmail.com**
 
-- 📄 Minha experiências profissionais [https://www.linkedin.com/in/william-vianna-728592261](https://www.linkedin.com/in/william-vianna-728592261)
+- 📄 Minhas experiências profissionais [https://www.linkedin.com/in/william-vianna-728592261](https://www.linkedin.com/in/william-vianna-728592261)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
