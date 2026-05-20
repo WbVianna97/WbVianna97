@@ -1,47 +1,83 @@
-<h1 align="center">Olá 👋, sou o William Vianna</h1>
-<h3 align="center">Estou iniciando minha jornada na área de ADS - Análise e Desenvolvimento de Dados, buscando sempre evoluir e aprimorar de forma contínua meus conhecimentos.</h3>
-
-- 🔭 Atualmente estou trabalhando com a criação de um ChatBot, integrado com IA **em linguagem Python**
-
-- 🌱 Estou aperfeiçoando meus conhecimentos em: **Python, CSS, HTML e JavaScript**
-
-- 💬 Pergunte-me sobre **Python**
-
-- 📫 Você me encontra através do e-mail **wbvianna97@gmail.com**
-
-- 📄 Minhas experiências profissionais [https://www.linkedin.com/in/william-vianna-728592261](https://www.linkedin.com/in/william-vianna-728592261)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/william-vianna-728592261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/william-vianna-728592261" height="30" width="40" /></a>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Olá%2C+sou+o+William+Vianna+👋;Desenvolvedor+em+formação;Entusiasta+de+Python+%26+IA" alt="Typing SVG" />
+</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=williamvianna&label=Visitantes&color=00d4ff&style=flat-square" alt="Visitantes" />
+  <a href="https://www.linkedin.com/in/william-vianna-728592261" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-William_Vianna-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:wbvianna97@gmail.com">
+    <img src="https://img.shields.io/badge/Email-wbvianna97@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<h3 align="left">Languages and Tools:</h3>
+---
+ 
+## 👨‍💻 Sobre mim
+ 
+Estou iniciando minha jornada na área de **ADS — Análise e Desenvolvimento de Sistemas**, com foco em evolução contínua e aprendizado prático. Apaixonado por tecnologia, busco construir soluções que unam lógica, automação e inteligência artificial.
+ 
+- 🔭 Atualmente desenvolvendo um **ChatBot integrado com IA** em Python
+- 🌱 Aprimorando conhecimentos em **Python, HTML, CSS e JavaScript**
+- 🤖 Interesse especial em **Automação, IA e desenvolvimento Web**
+- 💬 Pode me perguntar sobre **Python**
+- 📫 Contato: **wbvianna97@gmail.com**
+- 📄 Experiências: [LinkedIn](https://www.linkedin.com/in/william-vianna-728592261)
+---
+ 
+## 🛠️ Tecnologias & Ferramentas
+ 
 <p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-         alt="css3" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-         alt="html5" width="40" height="40"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-         alt="javascript" width="40" height="40"/>
-  </a>
-
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-         alt="python" width="40" height="40"/>
-  </a>
-
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/>
+  </a>&nbsp;&nbsp;
   <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg"
-         alt="n8n" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" alt="n8n" width="42" height="42"/>
   </a>
 </p>
-
+---
+ 
+## 📊 Estatísticas do GitHub
+ 
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=williamvianna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamvianna&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=williamvianna&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+---
+ 
+## 🚀 Projeto em Destaque
+ 
+### 🤖 ChatBot com IA
+> Chatbot inteligente desenvolvido em Python com integração de IA, focado em automação de atendimento e respostas contextuais.
+ 
+`Python` `IA` `Automação`
+ 
+---
+ 
+## 🌐 Conecte-se comigo
+ 
+<p align="left">
+  <a href="https://www.linkedin.com/in/william-vianna-728592261" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="mailto:wbvianna97@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="30" width="40"/>
+  </a>
+</p>
+---
+ 
+<p align="center">
+  <i>"A jornada de mil milhas começa com um único passo." — Lao Tzu</i>
+</p>
+ 
